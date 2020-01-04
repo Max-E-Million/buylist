@@ -1,43 +1,43 @@
 {
 	"items" : [
 	{
-		"abr": ""amber"",
+		"abr": "\"amber\"",
 		"price": 367,
 		"category": "Ranged weapons",
 		"defname": "Gun_PistolAmber"
 	},
 	{
-		"abr": ""dolphin"",
+		"abr": "\"dolphin\"",
 		"price": 1508,
 		"category": "Ranged weapons",
 		"defname": "Gun_ShotgunDolphin"
 	},
 	{
-		"abr": ""eclipse"",
+		"abr": "\"eclipse\"",
 		"price": 9358,
 		"category": "Ranged weapons",
 		"defname": "Gun_MachineGunEclipse"
 	},
 	{
-		"abr": ""flash"",
+		"abr": "\"flash\"",
 		"price": 1217,
 		"category": "Ranged weapons",
 		"defname": "Gun_MagmaGun"
 	},
 	{
-		"abr": ""lord"",
+		"abr": "\"lord\"",
 		"price": 6667,
 		"category": "Ranged weapons",
 		"defname": "Gun_Lord"
 	},
 	{
-		"abr": ""neptune"",
+		"abr": "\"neptune\"",
 		"price": 583,
 		"category": "Ranged weapons",
 		"defname": "Gun_AutopistolNeptune"
 	},
 	{
-		"abr": ""rapier"",
+		"abr": "\"rapier\"",
 		"price": 1908,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_PlasmBlade"
