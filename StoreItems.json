@@ -505,7 +505,7 @@
 		"defname": "Rawapple"
 	},
 	{
-		"abr": "arc-920"railgun"",
+		"abr": "arc-920\"railgun\"",
 		"price": 2333,
 		"category": "Ranged weapons",
 		"defname": "Asymmetric_Recoilless_Carbine"
@@ -4729,13 +4729,13 @@
 		"defname": "Mech_Lancer"
 	},
 	{
-		"abr": "lancer"cicada"",
+		"abr": "lancer\"cicada\"",
 		"price": 400,
 		"category": "Animal",
 		"defname": "Mech_Lancer_S"
 	},
 	{
-		"abr": "lancer"hornet"",
+		"abr": "lancer\"hornet\"",
 		"price": 1025,
 		"category": "Animal",
 		"defname": "Mech_Lancer_M"
@@ -4963,7 +4963,7 @@
 		"defname": "M41_SSR_MAV_AW"
 	},
 	{
-		"abr": "m6dpersonaldefenseweaponsystem"magnum"",
+		"abr": "m6dpersonaldefenseweaponsystem\"magnum\"",
 		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "M6D_Personal_Defense_Weapon_System"
